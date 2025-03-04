@@ -1,6 +1,7 @@
 export default function NoteListSkeleton() {
   return (
     <div>
+      <p>Loading ...</p>
       <ul className="notes-list skeleton-container">
         <li className="v-stack">
           <div
